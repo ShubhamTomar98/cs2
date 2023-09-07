@@ -2,7 +2,7 @@
 {
 	"Version"		"11"
 	"VendorID"		"4318"
-	"DeviceID"		"8089"
+	"DeviceID"		"YOUR USER ID"
 	"setting.cpu_level"		"0"
 	"setting.gpu_mem_level"		"0"
 	"setting.gpu_level"		"0"
