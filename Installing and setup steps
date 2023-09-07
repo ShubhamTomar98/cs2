@@ -1,0 +1,4 @@
+Creat a file practice.cfg and copy all the commands
+Put it inside this folder: Steam\SteamApps\Common\Counter-Strike Global Offensive\game\csgo\cfg
+Notice the game\csgo (CS2) folder, and not just csgo (CS:GO).
+Load a map locally type exec practice in console hit enter
