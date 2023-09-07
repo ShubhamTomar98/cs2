@@ -1,0 +1,12 @@
+1) Open CS 2  
+2) Alt+Tab and open Task Manager 
+3) Open CS 2 file location 
+4) Find advanced tab or comparability
+5) It should be right there
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Go to C:\Program Files (x86)\Steam\userdata\123456\730\local\cfg
+Open cs2_video.text and copy your device id written like this "DeviceID"		"6789"
+Place your Device id in the file downloaded from here https://github.com/ShubhamTomar98/csgo/blob/main/cs2_video.txt
+Now add the your resolution numbers here and replace cs2_video.txt
+ "setting.defaultres"		"1280"
+ "setting.defaultresheight"		"960"
