@@ -1,4 +1,2 @@
 Open autoexec.cfg and paste these commands will be updating these as new updates roll out
-r_fullscreengamma 2.6
-cl_updaterate 128
-cl_interpratio 1
+ r_fullscreen_gamma 2.8;cl_updaterate 128;cl_interp_ratio 1
