@@ -1,3 +1,6 @@
 Open autoexec.cfg and paste these commands will be updating these as new updates roll out
  r_fullscreen_gamma 2.8;cl_updaterate 128;cl_interp_ratio 1;
 r_csgo_water_effects false;
+
+When in premier mode the map is loaded during warmup enter this command
+quit latency_delay
